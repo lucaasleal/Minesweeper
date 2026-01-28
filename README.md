@@ -5,6 +5,8 @@ The AI can infer which cells are safe and which contain mines, making intelligen
 
 ## 🧠 **Project Idea** 
 The goal is to build a knowledge-based agent that plays Minesweeper logically. The AI observes the number of neighboring mines for each revealed safe cell and updates its knowledge base, making inferences to identify mines and safe cells automatically. 
+<img width="590" height="387" alt="image" src="https://github.com/user-attachments/assets/9943c3af-4c47-4254-b010-735763ff606a" />
+
 
 ## 📊 **Data Representation** 
 The board is represented as a 2D matrix (list of lists) in Python: 
